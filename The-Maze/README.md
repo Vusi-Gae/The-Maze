@@ -5,9 +5,9 @@
 ## Purpose
 Our project aims to create an immersive 3D maze game using raycasting technology. By implementing various features such as wall rendering, player movement, and collision detection, we aim to provide an engaging gaming experience.
 
-What is Ray-Casting?
+## What is Ray-Casting?
 Ray-casting is technique that transform a simple form of data into a 3D projection by tracing rays from the view point into the viewing volume.
-Keyboard Keys for Players
+## Keyboard Keys for Players
 Arrow Keys -- Player Directions
 R -- Refresh
 M -- Map
