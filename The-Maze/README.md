@@ -10,12 +10,20 @@ Ray-casting is technique that transform a simple form of data into a 3D projecti
 ## About SDL2
 Simple DirectMedia Layer is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D. It is used by video playback software, emulators, and popular games including Valve's award winning catalog and many Humble Bundle games
 ## Keyboard Keys for Players
-Arrow Keys -- Player Directions \n
-R -- Refresh /n
-M -- Map \n
-C -- Zoom Player view \n
-[ -- Zoom Out in Game \n
-] -- Zoom In in Game \n
-F -- Change Views \n
+
+Arrow Keys -- Player Directions 
+
+R -- Refresh 
+
+M -- Map 
+
+C -- Zoom Player view 
+
+[ -- Zoom Out in Game 
+
+] -- Zoom In in Game 
+
+F -- Change Views 
+
 T -- Change Texture of walls and square columns
 
