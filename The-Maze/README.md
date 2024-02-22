@@ -27,3 +27,5 @@ F -- Change Views
 
 T -- Change Texture of walls and square columns
 
+## Demo
+https://github.com/Vusi-Gae/The-Maze/assets/125538602/4cf5959f-9e61-4746-9dfe-bbd6169481fe
