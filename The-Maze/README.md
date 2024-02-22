@@ -1,4 +1,4 @@
-#h1 The Maze
+# h1 The Maze
 
 ![1126](https://github.com/Vusi-Gae/The-Maze/assets/125538602/2f799223-bb13-41da-8ab8-db93584d41b5)
 
